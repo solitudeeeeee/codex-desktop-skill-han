@@ -23,10 +23,12 @@
 
 ## 从 GitHub 安装
 
-仓库名称：`codex桌面端skill汉化`
+GitHub 仓库：[solitudeeeeee/codex-desktop-skill-han](https://github.com/solitudeeeeee/codex-desktop-skill-han)
+
+GitHub 不支持中文仓库 slug，因此仓库地址使用 `codex-desktop-skill-han`；项目名称仍为“Codex 桌面端 Skill 汉化”。
 
 ```bash
-codex plugin marketplace add <GitHub用户名>/codex桌面端skill汉化
+codex plugin marketplace add solitudeeeeee/codex-desktop-skill-han
 codex plugin add skill-han@codex-desktop-skill-han
 ```
 

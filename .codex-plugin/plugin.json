@@ -3,8 +3,11 @@
   "version": "0.2.0",
   "description": "\u6c49\u5316 Codex Skill \u7684\u83dc\u5355\u540d\u79f0\u548c\u7528\u9014\u8bf4\u660e\uff0c\u5e76\u6309\u9700\u751f\u6210\u4e2d\u6587\u4f7f\u7528\u6307\u5357\u3002",
   "author": {
-    "name": "solitudeeeee"
+    "name": "solitudeeeee",
+    "url": "https://github.com/solitudeeeeee"
   },
+  "homepage": "https://github.com/solitudeeeeee/codex-desktop-skill-han",
+  "repository": "https://github.com/solitudeeeeee/codex-desktop-skill-han",
   "skills": "./skills/",
   "interface": {
     "displayName": "Skill \u6c49\u5316",
