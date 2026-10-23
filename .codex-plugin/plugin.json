@@ -1,0 +1,25 @@
+{
+  "name": "skill-han",
+  "version": "0.2.0",
+  "description": "\u6c49\u5316 Codex Skill \u7684\u83dc\u5355\u540d\u79f0\u548c\u7528\u9014\u8bf4\u660e\uff0c\u5e76\u6309\u9700\u751f\u6210\u4e2d\u6587\u4f7f\u7528\u6307\u5357\u3002",
+  "author": {
+    "name": "solitudeeeee"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Skill \u6c49\u5316",
+    "shortDescription": "\u628a\u5df2\u5b89\u88c5 Skill \u7684\u83dc\u5355\u548c\u7528\u9014\u8bf4\u660e\u6c49\u5316\u3002",
+    "longDescription": "\u626b\u63cf\u4e2a\u4eba\u4e0e\u5df2\u542f\u7528\u63d2\u4ef6\u4e2d\u7684 Skill\uff0c\u5199\u5165\u4e2d\u6587\u83dc\u5355\u540d\u79f0\u548c\u7b80\u77ed\u7528\u9014\uff0c\u5e76\u6309\u9700\u751f\u6210\u4e2d\u6587\u4f7f\u7528\u6307\u5357\u3002\u539f\u59cb Skill \u6b63\u6587\u4fdd\u6301\u4e0d\u53d8\u3002",
+    "developerName": "solitudeeeee",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "\u626b\u63cf\u5e76\u6c49\u5316\u5f53\u524d\u53ef\u89c1\u7684 Skill \u83dc\u5355\u3002",
+      "\u7528\u4e2d\u6587\u89e3\u91ca PDF Skill \u600e\u4e48\u7528\u3002",
+      "\u6062\u590d\u6240\u6709\u88ab\u6c49\u5316\u7684 Skill \u83dc\u5355\u3002"
+    ]
+  }
+}

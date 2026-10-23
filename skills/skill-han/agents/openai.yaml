@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill 汉化（skill-han）"
+  short_description: "扫描并汉化已安装 Skill 的菜单名称、用途说明与按需使用指南"
+  default_prompt: "使用 $skill-han 扫描并汉化当前可见的 Skill。"
